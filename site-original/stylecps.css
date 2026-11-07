@@ -1,0 +1,210 @@
+<!--
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+  /* TOUT */
+html, body {
+ margin:0;
+ padding:0;
+ max-width: 1080px;
+ text-align:center;
+
+ }
+
+body
+{
+background-color: white; /* D1CFAC*/
+font-family: sans-serif;
+}
+
+#asideandarticle
+{
+max-width: 1200px;
+margin-left: auto;
+margin-right: auto;
+}
+a
+{
+color: #CF122B;
+}
+
+h1
+{
+text-align:center;
+color: #CF122B;
+font-weight:bold;
+font-size: 1.2em;
+}
+
+h2
+{
+text-align:center;
+color:#990000;
+}
+
+h3
+{
+text-align:center;
+color: #990000;
+}
+img
+{
+max-width:100%;}
+
+  /* HEADER */
+
+header
+{
+background-color: white;
+margin-right:0%;
+padding-top: 4px;
+text-align: center;
+}
+
+  /* NAVIGATION */
+nav.t
+{
+text-align: center;
+color: white;
+background-color: #DF0000;
+font-size:14px;
+font-weight: bold;
+margin-bottom:4px;
+max-width: 100%;
+margin-right: auto;
+margin-left: auto;
+}
+
+.t a
+{
+	color: white;
+	font-size:14px;
+	font-weight: bold;
+	text-decoration: none
+}
+
+.t a:visited
+{
+	color: white;
+	font-size:14px;
+	font-weight: bold;
+	text-decoration: none
+}
+
+tr.t
+{
+	max-width: 100%;
+}
+
+td.t
+{
+	width:14%;
+}
+
+td.t:hover
+{
+	background-color: #c30000;
+}
+
+td.t:hover a
+{
+	color: white;
+}
+
+aside
+{
+	float: left;
+	max-width: 320px;
+	margin-right: 10px;
+	padding: 0px;
+	margin-left: auto;
+}
+
+aside.table
+{
+	padding: 0px;
+	border-spacing: 0px;
+
+}
+
+article
+{
+	display: flow-root;
+	padding-right:4px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: justify;
+	max-width: 800px;
+
+}
+  /* RUBRIQUES */
+
+img.rubriqueindex
+{
+	max-width: 200px;
+}
+
+
+
+
+
+	.datenews
+		{
+			background-color: #EDEDDF;
+			color: white;
+			text-align: right;
+			font-weight: bold;
+		}
+
+	.derniernumero
+		{
+			border: solid 4px #DF0000;
+		}
+
+		.relire
+		{
+			border: solid 4px #DF0000;
+		}
+
+		.quisommesnous
+		{
+			border: solid 4px #EDEDDF;
+			text-align: justify;
+			background-color: #EDEDDF;
+
+		}
+
+
+td.rubgris
+{
+	background-color: #EDEDDF;
+}
+
+td.rubrouge
+{
+	background-color: #DF0000;
+}
+
+  /* MOBILES */
+
+
+@media all and (max-device-width: 480px)
+{
+/* Vos règles CSS pour les mobiles ici */
+
+
+
+}
+
+@media screen and (min-width: 800px) {
+  	#minres { display: none;}
+	article
+	{
+	border-right-style: solid;
+    border-right-color: #EDEDDF;
+	}
+}
+
+@media screen and (max-width: 800px) {
+  .deco{display:none}
+  #banordi { display: none;}
+  aside {display: none;}
+  }
