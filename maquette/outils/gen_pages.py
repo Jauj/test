@@ -224,12 +224,11 @@ page("abonnement.html", "abonnement.html", "S'abonner, nous contacter",
 def entree(date_iso, date, type_, titre, chapo="", sommaire=None, lien="article.html"):
     som = ""
     if sommaire:
-        som = '\n              <ul class="entree-sommaire">' + "".join(f'<li><a href="{lien}">{x}</a></li>' for x in sommaire) + "</ul>"
-    ch = f"\n              <p>{chapo}</p>" if chapo else ""
-    return f"""          <li>
-              <p class="entree-tete"><span class="entree-type">{type_}</span> <time class="entree-date" datetime="{date_iso}">{date}</time></p>
-              <h3 class="titre-resultat"><a href="{lien}">{titre}</a></h3>{ch}{som}
-              <p class="entree-liens"><a href="{lien}">Lire</a> · <a href="#">PDF</a></p>
+        som = '\n              <ul class="boite-sommaire">' + "".join(f'<li><a href="{lien}">{x}</a></li>' for x in sommaire) + "</ul>"
+    ch = f'\n              <p class="boite-soustitre">{chapo}</p>' if chapo else ""
+    return f"""          <li class="boite">
+              <div class="boite-tete"><span class="boite-type">{type_}</span><time class="boite-date" datetime="{date_iso}">{date}</time></div>
+              <h3 class="boite-titre"><a href="{lien}">{titre}</a></h3>{ch}{som}
           </li>"""
 
 entrees = "\n".join([
@@ -269,7 +268,7 @@ ACCUEIL = """    <h1 class="visuellement-cache">Combattre pour le socialisme : a
     <section class="section" aria-labelledby="dernieres">
       <div class="conteneur">
         <h2 class="titre-section" id="dernieres">Dernières publications <a href="publications.html">Toutes les publications</a></h2>
-        <ol class="liste-textes liste-chrono">
+        <ol class="boites">
 ENTREES
         </ol>
       </div>
@@ -317,7 +316,7 @@ FILTRES
 
           <div>
             <p role="status" class="resultats-entete" style="margin-top:0"><span><strong>1 226 textes</strong>, du plus récent au plus ancien</span></p>
-            <ol class="liste-textes liste-chrono">
+            <ol class="boites">
 ENTREES
             </ol>
             <nav aria-label="Pagination">
