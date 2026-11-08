@@ -469,3 +469,15 @@ sup { line-height: 0; }
 .liste-textes li > div > p { margin: .3rem 0 0; }
 .liste-textes .entree-sommaire li { display: list-item; grid-template-columns: none; border: 0; padding: .15rem 0; }
 .liste-textes .entree-type { color: var(--rouge); }
+
+/* Liste chronologique : une seule colonne, date à droite dans la ligne du type */
+.liste-chrono { max-width: 48rem; }
+.liste-textes.liste-chrono > li { display: block; grid-template-columns: none; padding: 1.1rem 0; }
+.liste-textes.liste-chrono > li:first-child { padding-top: 0; }
+.entree-tete { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; margin: 0 0 .2rem !important; }
+.entree-tete .entree-type { margin: 0; }
+.entree-date { flex: none; color: var(--gris); font-size: .875rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.entree-sommaire a { color: var(--encre); text-decoration: underline; text-decoration-color: var(--filet); }
+.entree-sommaire a:hover { color: var(--rouge); text-decoration-color: currentColor; }
+main { padding-bottom: 2rem; }
+#dernieres { max-width: 48rem; }

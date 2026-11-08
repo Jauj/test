@@ -38,41 +38,7 @@ ITEMS
   </header>""".replace("ITEMS", items).replace("CURA", cur("abonnement.html"))
 
 
-PIED = '''  <footer class="pied">
-    <div class="conteneur">
-      <div class="pied-grille">
-        <div>
-          <h2>Recevoir nos publications</h2>
-          <form>
-            <label for="courriel" style="display:block;margin-bottom:.4rem">Adresse électronique</label>
-            <div class="recherche-bloc">
-              <input class="champ" id="courriel" type="email" autocomplete="email" placeholder="nom@exemple.fr">
-              <button class="bouton" type="submit">M'inscrire</button>
-            </div>
-          </form>
-        </div>
-        <div>
-          <h2>S'abonner au bulletin</h2>
-          <ul>
-            <li>30 € pour dix numéros</li>
-            <li><a href="abonnement.html">Modalités d'abonnement</a></li>
-            <li><a href="abonnement.html#anciens">Commander d'anciens numéros</a></li>
-          </ul>
-        </div>
-        <div>
-          <h2>Le site</h2>
-          <ul>
-            <li><a href="abonnement.html#contact">Contact</a></li>
-            <li><a href="qui-sommes-nous.html#liens">Liens</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="pied-bas">
-        <span>Combattre pour le socialisme — Groupe pour la construction du parti ouvrier révolutionnaire, de l'Internationale ouvrière révolutionnaire</span>
-      </div>
-    </div>
-  </footer>
-  <script>
+PIED = '''  <script>
     const btn = document.querySelector('.bouton-menu');
     const nav = document.getElementById('onglets');
     btn.addEventListener('click', () => {
@@ -258,15 +224,12 @@ page("abonnement.html", "abonnement.html", "S'abonner, nous contacter",
 def entree(date_iso, date, type_, titre, chapo="", sommaire=None, lien="article.html"):
     som = ""
     if sommaire:
-        som = '\n              <ul class="entree-sommaire">' + "".join(f"<li>{x}</li>" for x in sommaire) + "</ul>"
+        som = '\n              <ul class="entree-sommaire">' + "".join(f'<li><a href="{lien}">{x}</a></li>' for x in sommaire) + "</ul>"
     ch = f"\n              <p>{chapo}</p>" if chapo else ""
     return f"""          <li>
-            <p class="meta"><time datetime="{date_iso}">{date}</time></p>
-            <div>
-              <p class="entree-type">{type_}</p>
+              <p class="entree-tete"><span class="entree-type">{type_}</span> <time class="entree-date" datetime="{date_iso}">{date}</time></p>
               <h3 class="titre-resultat"><a href="{lien}">{titre}</a></h3>{ch}{som}
               <p class="entree-liens"><a href="{lien}">Lire</a> · <a href="#">PDF</a></p>
-            </div>
           </li>"""
 
 entrees = "\n".join([
