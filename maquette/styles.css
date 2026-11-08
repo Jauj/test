@@ -388,3 +388,13 @@ sup { line-height: 0; }
   .liens-filtres a { margin: 0; border: 1px solid var(--filet); border-radius: 999px; min-height: 36px; padding: .25rem .75rem; }
   .liens-filtres .nombre { margin-left: .25rem; }
 }
+
+/* Version sans photos ni couverture */
+.une--texte { grid-template-columns: minmax(0, 52rem); }
+.une--texte .une-titre { font-size: clamp(2rem, 1.3rem + 2.8vw, 3.25rem); }
+.numero--texte { grid-template-columns: 1fr; max-width: 52rem; }
+.carte { border-top: 4px solid var(--rouge); padding-top: 1rem; }
+.numeros { grid-template-columns: repeat(3, 1fr); }
+.numeros li { border-top: 4px solid var(--rouge); padding-top: .9rem; }
+.numeros .surtitre { margin-bottom: .35rem; }
+@media (max-width: 760px) { .numeros { grid-template-columns: 1fr; } }
