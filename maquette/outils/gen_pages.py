@@ -4,7 +4,7 @@ import sys, pathlib
 OUT = pathlib.Path(sys.argv[1])
 
 NAV = [("index.html", "Accueil"), ("publications.html", "Publications"),
-       ("recherche.html", "Textes"), ("qui-sommes-nous.html", "Qui sommes-nous")]
+       ("textes.html", "Textes"), ("qui-sommes-nous.html", "Qui sommes-nous")]
 
 def entete(actif):
     items = "\n".join(
@@ -32,13 +32,10 @@ def entete(actif):
         <ul class="onglets" id="onglets">
 ITEMS
         </ul>
-        <a class="onglet-icone" href="recherche.html" aria-label="Rechercher dans les archives"CURR>
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5" stroke-linecap="round"/></svg>
-        </a>
         <a class="onglet-abonner" href="abonnement.html"CURA>S'abonner</a>
       </div>
     </nav>
-  </header>""".replace("ITEMS", items).replace("CURR", cur("recherche.html")).replace("CURA", cur("abonnement.html"))
+  </header>""".replace("ITEMS", items).replace("CURA", cur("abonnement.html"))
 
 
 PIED = '''  <footer class="pied">
@@ -126,7 +123,7 @@ article = '''    <article class="section">
           </ul>
           <div class="barre-article">
             <a class="bouton bouton--contour" href="#">Télécharger le PDF (2 pages)</a>
-            <span class="meta">Thèmes : <a href="recherche.html">Budget</a>, <a href="recherche.html">Jeunesse</a>, <a href="recherche.html">Libertés démocratiques</a></span>
+            <span class="meta">Thèmes : <a href="publications.html">Budget</a>, <a href="publications.html">Jeunesse</a>, <a href="publications.html">Libertés démocratiques</a></span>
           </div>
         </header>
 
@@ -163,53 +160,13 @@ P("Pour les prolétariats et la jeunesse en Europe, il n'y a pas de véritable i
           <p class="surtitre">À lire aussi</p>
           <ul class="liste-liens">
             <li><a href="index.html#journal">Le n° 98 de Combattre pour le socialisme (1<sup>er</sup> octobre 2026)</a></li>
-            <li><a href="recherche.html">Inconditionnellement du côté de la mobilisation lycéenne et de ses revendications</a></li>
+            <li><a href="publications.html">Inconditionnellement du côté de la mobilisation lycéenne et de ses revendications</a></li>
           </ul>
         </footer>
       </div>
     </article>'''
 page("article.html", "", "Pour défaire le gouvernement Macron-Lecornu-Nuñez",
      "Supplément au n° 98 de Combattre pour le socialisme, 1er novembre 2026.", article)
-
-# ------------------------------------------------------------------ JOURNAL
-numeros = [
-    ("98", "1<sup>er</sup> octobre 2026", "Le programme du MEDEF et de tous les partis bourgeois : démanteler les conquêtes des travailleurs et jeunes"),
-    ("97", "30 avril 2026", "Rapport sur la situation internationale adopté par la VII<sup>e</sup> conférence du Groupe"),
-    ("96", "28 février 2026", "L'adoption du budget 2026 : un pas décisif pour le gouvernement, une défaite sans combat pour le prolétariat"),
-    ("95", "11 octobre 2025", "Pour la bourgeoisie, il faut un budget de guerre"),
-    ("94", "8 mai 2025", "Le gouvernement Macron-Bayrou-Retailleau prépare un budget de guerre contre les travailleurs et jeunes"),
-    ("93", "30 janvier 2025", "Face aux attaques du gouvernement, une seule issue : l'affronter"),
-    ("92", "9 octobre 2024", "Face au gouvernement Macron-Barnier-Retailleau, combattre pour imposer le front unique"),
-    ("91", "23 mai 2024", "France : notes politiques"),
-]
-items = "\n".join(f'''          <li>
-            <p class="surtitre">N° {n} · {d}</p>
-            <h3><a href="index.html#journal">{e}</a></h3>
-            <p>PDF · sommaire</p>
-          </li>''' for n, d, e in numeros)
-journal = f'''    <div class="section">
-      <div class="conteneur">
-        <h1 class="titre-page">Publications</h1>
-        <p class="intro">Le bulletin <cite>Combattre pour le socialisme</cite> paraît depuis octobre 1984 ; la nouvelle série en est à son 98<sup>e</sup> numéro. Chaque numéro est consultable en ligne et téléchargeable en PDF.</p>
-        <nav aria-label="Années">
-          <ul class="annees">
-            <li><a href="#" aria-current="true">2026</a></li><li><a href="#">2025</a></li><li><a href="#">2024</a></li><li><a href="#">2023</a></li><li><a href="#">2022</a></li><li><a href="#">2010–2021</a></li><li><a href="#">2000–2009</a></li><li><a href="#">1984–1999</a></li>
-          </ul>
-        </nav>
-        <h2 class="visuellement-cache">Numéros récents</h2>
-        <ul class="numeros">
-{items}
-        </ul>
-      </div>
-    </div>
-    <section class="section section--douce" aria-labelledby="abo-j">
-      <div class="conteneur bandeau-cjr">
-        <div><h2 id="abo-j">Recevoir le journal chez soi</h2><p>30 € pour dix numéros. Anciens numéros : 2 € l'exemplaire.</p></div>
-        <div class="groupe-boutons"><a class="bouton" href="abonnement.html">S'abonner</a></div>
-      </div>
-    </section>'''
-page("publications.html", "publications.html", "Publications",
-     "Tous les numéros du bulletin Combattre pour le socialisme depuis 1984.", journal)
 
 # ------------------------------------------------------------------ QUI SOMMES-NOUS
 qui = '''    <div class="section">
@@ -228,14 +185,7 @@ qui = '''    <div class="section">
               <p>Le Groupe constate que la IV<sup>e</sup> Internationale a été détruite comme organisation révolutionnaire. Mais les acquis politiques de la IV<sup>e</sup> Internationale, comme ceux des I<sup>re</sup>, II<sup>e</sup> et III<sup>e</sup> Internationales, demeurent plus que jamais vivants.</p>
             </div>
 
-            <h2 style="margin-top:2.5rem">Textes fondamentaux</h2>
-            <ul class="liste-liens">
-              <li><a href="#">Une nouvelle perspective</a> <span class="meta">— IX<sup>e</sup> conférence du Comité, 1997</span></li>
-              <li><a href="#">Programme de transition</a> <span class="meta">— Léon Trotsky, 1938</span></li>
-              <li><a href="#">Les syndicats à l'époque de la décadence de l'impérialisme</a> <span class="meta">— Stéphane Just, 1972</span></li>
-              <li><a href="#">La lutte pour l'émancipation des femmes</a></li>
-              <li><a href="recherche.html">Tous les textes de conférence →</a></li>
-            </ul>
+            <p style="margin-top:2rem"><a class="bouton bouton--contour" href="textes.html">Textes fondamentaux et conférences</a></p>
 
             <h2 id="cjr" style="margin-top:2.5rem">Cercle de jeunes révolutionnaires (CJR)</h2>
             <p>Le CJR regroupe les jeunes pour qui le combat pour le socialisme est une nécessité absolue. Aux côtés de la classe ouvrière, il s'engage dans la construction de l'organisation révolutionnaire de la jeunesse. Il publie le bulletin <cite>Socialisme ou Barbarie</cite>.</p>
@@ -360,36 +310,116 @@ ACCUEIL = """    <h1 class="visuellement-cache">Combattre pour le socialisme : a
 ENTREES
         </ol>
       </div>
-    </section>
-
-    <section class="section section--douce" aria-labelledby="archives-titre">
-      <div class="conteneur">
-        <h2 class="titre-section" id="archives-titre">Chercher dans les archives</h2>
-        <form class="recherche-bloc" action="recherche.html" role="search">
-          <label class="visuellement-cache" for="q-accueil">Rechercher dans les archives</label>
-          <input class="champ" id="q-accueil" name="q" type="search" placeholder="Un mot, un nom, un thème… (ex. : retraites, FSU, Palestine)">
-          <button class="bouton" type="submit">Rechercher</button>
-        </form>
-        <h3 class="visuellement-cache">Thèmes</h3>
-        <ul class="puces">
-          <li><a href="recherche.html">Enseignement public <span class="nombre">220</span></a></li>
-          <li><a href="recherche.html">FSU <span class="nombre">110</span></a></li>
-          <li><a href="recherche.html">CGT <span class="nombre">71</span></a></li>
-          <li><a href="recherche.html">Étudiants <span class="nombre">69</span></a></li>
-          <li><a href="recherche.html">Situation internationale <span class="nombre">53</span></a></li>
-          <li><a href="recherche.html">Algérie <span class="nombre">45</span></a></li>
-          <li><a href="recherche.html">Retraites <span class="nombre">37</span></a></li>
-          <li><a href="recherche.html">Palestine <span class="nombre">37</span></a></li>
-        </ul>
-      </div>
     </section>""".replace("ENTREES", entrees)
 page("index.html", "index.html", "Accueil",
      "Bulletin et prises de position du Groupe pour la construction du parti ouvrier révolutionnaire. Archives depuis 1984.", ACCUEIL)
 
-# ------------------------------------------------------------------ RECHERCHE (contenu existant)
-rm = open("/tmp/claude-0/recherche_main.html", encoding="utf-8").read()
-rm = rm.replace('<main id="contenu" class="section">', '<div class="section">').replace('</main>', '</div>')
-page("recherche.html", "recherche.html", "Textes et archives",
-     "Recherche dans les archives de Combattre pour le socialisme depuis 1984.", "    " + rm)
+
+# ------------------------------------------------------------------ PUBLICATIONS (liste + recherche)
+def groupe_filtres(titre, ident, items):
+    lis = "\n".join(f'            <li><a href="publications.html">{t} <span class="nombre">{n}</span></a></li>' for t, n in items)
+    return f"""          <h3 class="filtre-titre" id="{ident}">{titre}</h3>
+          <ul class="liens-filtres" aria-labelledby="{ident}">
+{lis}
+          </ul>"""
+
+FILTRES = "\n".join([
+    groupe_filtres("Thèmes", "f-themes", [
+        ("Enseignement public", 220), ("Retraites", 37), ("Budget, finances publiques", 35),
+        ("Sécurité sociale", 24), ("Fonction publique", 19), ("Syndicats et dialogue social", 18),
+        ("Libertés démocratiques", 16), ("Guerre impérialiste", 19), ("Crise du capitalisme", 22),
+        ("Palestine", 37), ("Algérie", 45)]),
+    groupe_filtres("Type de texte", "f-type", [
+        ("Numéros du bulletin", 199), ("Éditoriaux", 152), ("Suppléments, tracts", 159),
+        ("Déclarations", 90), ("On nous communique", 52), ("Communiqués", 18)]),
+    groupe_filtres("Organisation citée", "f-org", [
+        ("FSU", 110), ("CGT", 71), ("Force ouvrière", 54), ("FEN", 40), ("UNEF", 33), ("PS", 31), ("PCF", 21)]),
+    groupe_filtres("Période", "f-periode", [
+        ("2020 – 2026", 156), ("2010 – 2019", 274), ("2000 – 2009", 248), ("1984 – 1999", 548)]),
+])
+
+PUBLICATIONS = """    <div class="section">
+      <div class="conteneur">
+        <h1 class="titre-page">Publications</h1>
+        <form class="recherche-bloc" role="search" action="publications.html">
+          <label class="visuellement-cache" for="q">Rechercher dans les publications</label>
+          <input class="champ" id="q" name="q" type="search" placeholder="Un mot, un nom, un thème… (ex. : retraites, FSU, Palestine)">
+          <button class="bouton" type="submit">Rechercher</button>
+        </form>
+
+        <div class="mise-en-page-recherche" style="margin-top:2rem">
+          <nav class="filtres" aria-label="Filtrer les publications">
+FILTRES
+          </nav>
+
+          <div>
+            <p role="status" class="resultats-entete" style="margin-top:0"><span><strong>1 226 textes</strong>, du plus récent au plus ancien</span></p>
+            <ol class="liste-textes liste-chrono">
+ENTREES
+            </ol>
+            <nav aria-label="Pagination">
+              <ul class="pagination">
+                <li><span aria-current="page">1</span></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">3</a></li>
+                <li><a href="#">…</a></li>
+                <li><a href="#">123</a></li>
+                <li><a href="#" style="padding:0 1rem">Suivant</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>""".replace("FILTRES", FILTRES).replace("ENTREES", entrees)
+page("publications.html", "publications.html", "Publications",
+     "Tous les numéros et suppléments de Combattre pour le socialisme depuis 1984, avec recherche par thème.", PUBLICATIONS)
+
+# ------------------------------------------------------------------ TEXTES (textes de référence)
+def bloc(titre, items):
+    lis = "\n".join(f'            <li><a href="#">{t}</a>{(" <span class=\"meta\">— " + m + "</span>") if m else ""}</li>' for t, m in items)
+    return f"""        <h2 class="titre-section" style="margin-top:2.5rem">{titre}</h2>
+        <ul class="liste-liens">
+{lis}
+        </ul>"""
+
+TEXTES = """    <div class="section">
+      <div class="conteneur" style="max-width:52rem">
+        <h1 class="titre-page">Textes</h1>
+        <p class="intro">Les textes de référence du Groupe, les rapports adoptés par ses conférences et les textes fondateurs du Comité (1984-1997).</p>
+""" + "\n".join([
+    bloc("Textes fondamentaux", [
+        ("Programme de transition", "Léon Trotsky, 1938"),
+        ("Les syndicats à l'époque de la décadence de l'impérialisme", "Léon Trotsky, 1940 ; préface de Stéphane Just, 1972"),
+        ("La lutte pour l'émancipation des femmes, une composante essentielle du combat pour le socialisme", ""),
+        ("Une nouvelle perspective", "IX<sup>e</sup> conférence du Comité, 1997"),
+    ]),
+    bloc("Conférences du Groupe (depuis 2007)", [
+        ("Rapport sur la situation internationale", "VII<sup>e</sup> conférence, avril 2026 (CPS n° 97)"),
+        ("Rapport sur la situation internationale", "V<sup>e</sup> conférence, 15-17 avril 2017"),
+        ("Rapport sur la situation internationale", "3<sup>e</sup> conférence, 27 mai 2012 (CPS n° 47)"),
+        ("Rapport international", "2<sup>e</sup> conférence, 11-13 avril 2009 (CPS n° 37)"),
+        ("Rapport international", "1<sup>re</sup> conférence, avril 2007 (CPS n° 29)"),
+        ("Résolution adoptée par la première conférence du Groupe", "9 avril 2007"),
+    ]),
+    bloc("Du Comité au Cercle (2000)", [
+        ("Œuvrer à la construction du parti ouvrier révolutionnaire", "texte fondant le Cercle, bilan de la crise du Comité après le décès de Stéphane Just"),
+    ]),
+    bloc("Le Comité (1984-1997)", [
+        ("Contribution à la discussion préparatoire du XXVIII<sup>e</sup> congrès du PCI", "Stéphane Just, 1984"),
+        ("Où en est et où va la direction du PCI", "Stéphane Just, juillet 1984"),
+        ("Comment le révisionnisme s'est emparé de la direction du PCI", "Stéphane Just, 27 août 1984"),
+        ("Pourquoi ce bulletin", "CPS n° 1, octobre 1984"),
+        ("1985 : une année cruciale. Éléments pour un programme d'action", "Stéphane Just"),
+        ("Contribution à la conférence de la IV<sup>e</sup> Internationale (CIR)", "21 décembre 1990"),
+        ("Rapport adopté par la VI<sup>e</sup> conférence du Comité", "1<sup>er</sup>-3 novembre 1991"),
+        ("Lambert et ses « amis » « reproclament la IV<sup>e</sup> Internationale »", "supplément au n° 50, décembre 1993"),
+        ("Complète dégénérescence", "supplément au n° 55, février 1995"),
+        ("La politique du CCI-PT et de sa prétendue « IV<sup>e</sup> internationale » : un nouveau social-patriotisme", "2006"),
+    ]),
+]) + """
+      </div>
+    </div>"""
+page("textes.html", "textes.html", "Textes",
+     "Textes fondamentaux et rapports de conférence du Groupe pour la construction du parti ouvrier révolutionnaire.", TEXTES)
 
 print("ok")
