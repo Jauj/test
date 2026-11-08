@@ -3,17 +3,21 @@
    Palette vérifiée WCAG 2.2 AA (contrastes sur fond blanc) :
    --encre     #1A1A1A  17,4:1  texte principal
    --gris      #5C5C5C   6,7:1  texte secondaire
-   --rouge     #C8102E   5,9:1  liens, boutons (texte blanc dessus : 5,9:1)
+   --rouge     #DF0000   5,1:1  rouge d'origine du site : liens, boutons, bandeau (texte blanc dessus : 5,1:1)
    --rouge-fonce #A50E1E 7,8:1  survol, état actif
    --filet     #D9D2CC   décoratif uniquement (jamais porteur d'information)
    ========================================================= */
+
+/* Oswald (licence SIL OFL), hébergée sur le site : aucun appel à Google Fonts */
+@font-face { font-family: "Oswald"; font-weight: 500; font-style: normal; font-display: swap; src: url("fonts/oswald-latin-500-normal.woff2") format("woff2"); }
+@font-face { font-family: "Oswald"; font-weight: 600; font-style: normal; font-display: swap; src: url("fonts/oswald-latin-600-normal.woff2") format("woff2"); }
 
 :root {
   --blanc: #FFFFFF;
   --fond-doux: #FAF7F5;
   --encre: #1A1A1A;
   --gris: #5C5C5C;
-  --rouge: #C8102E;
+  --rouge: #DF0000;
   --rouge-fonce: #A50E1E;
   --filet: #D9D2CC;
 
@@ -36,7 +40,6 @@ body {
   font-family: var(--sans);
   font-size: 1.0625rem;      /* 17 px */
   line-height: 1.6;
-  border-top: 4px solid var(--rouge);
 }
 
 img { max-width: 100%; height: auto; display: block; }
@@ -398,3 +401,71 @@ sup { line-height: 0; }
 .numeros li { border-top: 4px solid var(--rouge); padding-top: .9rem; }
 .numeros .surtitre { margin-bottom: .35rem; }
 @media (max-width: 760px) { .numeros { grid-template-columns: 1fr; } }
+
+/* =========================================================
+   Bandeau repris de socialisme.free.fr (en texte, pas en image)
+   ========================================================= */
+.bandeau { background: var(--blanc); }
+.bandeau-int { display: flex; flex-direction: column; align-items: center; padding-top: 1.1rem; padding-bottom: 1rem; }
+.bandeau-surtitre {
+  margin: 0 0 .45rem; text-align: center;
+  font-family: "Oswald", "Arial Narrow", var(--sans); font-weight: 500; text-transform: uppercase;
+  font-size: clamp(.75rem, .55rem + .6vw, 1.05rem); line-height: 1.25; color: var(--rouge);
+}
+.bandeau-marque { display: flex; align-items: stretch; gap: .45rem; text-decoration: none; color: var(--rouge); }
+.bandeau-marque:hover { color: var(--rouge); }
+.bandeau-logo { width: clamp(60px, 4rem + 4vw, 132px); height: auto; aspect-ratio: 1; object-fit: cover; flex: none; }
+.bandeau-textes {
+  display: flex; flex-direction: column; justify-content: space-between;
+  border-top: clamp(4px, .5vw, 8px) solid var(--rouge);
+}
+.bandeau-titre {
+  display: block; font-family: "Oswald", "Arial Narrow", var(--sans); font-weight: 600; text-transform: uppercase;
+  font-size: clamp(1.45rem, .7rem + 3.9vw, 3.9rem); line-height: 1.05; letter-spacing: .005em;
+  padding: .08em 0 .1em; border-bottom: clamp(2px, .3vw, 4px) solid var(--rouge);
+}
+.bandeau-citation { display: block; font-size: clamp(.78rem, .55rem + .75vw, 1.25rem); line-height: 1.3; padding-top: .3em; }
+
+/* Barre des onglets, sous le bandeau */
+.barre-onglets { background: var(--rouge); }
+.barre-int { display: flex; align-items: center; gap: .25rem; }
+.onglets { list-style: none; margin: 0; padding: 0; display: flex; flex: 1; }
+.onglets a, .onglet-icone {
+  display: flex; align-items: center; min-height: 48px; padding: 0 1.15rem;
+  color: var(--blanc); font-weight: 700; text-decoration: none; font-size: 1rem;
+}
+.onglets a:hover, .onglet-icone:hover { background: var(--rouge-fonce); color: var(--blanc); }
+.onglets a[aria-current="page"], .onglet-icone[aria-current="page"] { background: var(--rouge-fonce); box-shadow: inset 0 -4px 0 var(--blanc); }
+.onglet-icone svg { width: 22px; height: 22px; }
+.onglet-abonner {
+  display: inline-flex; align-items: center; min-height: 36px; padding: 0 1rem; margin-left: .5rem;
+  background: var(--blanc); color: var(--rouge); font-weight: 800; text-decoration: none; border-radius: var(--rayon);
+}
+.onglet-abonner:hover, .onglet-abonner[aria-current="page"] { background: var(--encre); color: var(--blanc); }
+.barre-onglets :focus-visible { outline-color: var(--blanc); outline-offset: -4px; }
+.barre-onglets .bouton-menu {
+  display: none; align-items: center; gap: .5rem; min-height: 48px; padding: 0 .5rem;
+  background: none; border: 0; color: var(--blanc); font: 700 1rem var(--sans); cursor: pointer;
+}
+.barre-onglets .bouton-menu svg { width: 24px; height: 24px; }
+
+@media (max-width: 760px) {
+  .bandeau-int { padding-top: .75rem; padding-bottom: .75rem; }
+  .barre-int { flex-wrap: wrap; padding: 0 .75rem; }
+  .barre-onglets .bouton-menu { display: inline-flex; margin-right: auto; }
+  .onglets { order: 3; flex-basis: 100%; flex-direction: column; display: none; border-top: 1px solid rgba(255,255,255,.4); padding-bottom: .5rem; }
+  .onglets.ouvert { display: flex; }
+  .onglets a { padding: 0 .75rem; }
+  .onglets a[aria-current="page"] { box-shadow: inset 4px 0 0 var(--blanc); }
+}
+
+/* Accueil : liste chronologique */
+.liste-chrono { counter-reset: none; }
+.entree-type { margin: 0 0 .15rem; font-size: .875rem; font-weight: 600; color: var(--rouge); }
+.entree-type strong { font-weight: 800; }
+.entree-sommaire { margin: .5rem 0 0; padding-left: 1.1rem; color: var(--encre); }
+.entree-sommaire li { margin: .2rem 0; }
+.entree-liens { margin: .5rem 0 0 !important; font-size: .9375rem; color: var(--gris); }
+.liste-textes li > div > p { margin: .3rem 0 0; }
+.liste-textes .entree-sommaire li { display: list-item; grid-template-columns: none; border: 0; padding: .15rem 0; }
+.liste-textes .entree-type { color: var(--rouge); }

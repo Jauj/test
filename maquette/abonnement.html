@@ -9,32 +9,35 @@
 </head>
 <body>
   <a class="lien-evitement" href="#contenu">Aller au contenu</a>
-  <header class="entete">
-    <div class="conteneur">
-      <a class="marque" href="index.html">
-        <img src="img/logo.jpg" alt="" width="48" height="48">
-        <span class="marque-nom">Combattre pour <span>le socialisme</span></span>
+  <header class="bandeau">
+    <div class="conteneur bandeau-int">
+      <p class="bandeau-surtitre">Groupe pour la construction du parti ouvrier révolutionnaire, la construction de l'Internationale ouvrière révolutionnaire</p>
+      <a class="bandeau-marque" href="index.html">
+        <img class="bandeau-logo" src="img/logo.jpg" alt="" width="120" height="120">
+        <span class="bandeau-textes">
+          <span class="bandeau-titre">Combattre pour le socialisme</span>
+          <span class="bandeau-citation">« On ne peut aller de l'avant si l'on craint d'aller au socialisme » (Lénine)</span>
+        </span>
       </a>
-      <nav class="nav-principale" id="nav-principale" aria-label="Navigation principale">
-        <ul>
-          <li><a href="index.html">Actualités</a></li>
+    </div>
+    <nav class="barre-onglets" aria-label="Navigation principale">
+      <div class="conteneur barre-int">
+        <button class="bouton-menu" type="button" aria-expanded="false" aria-controls="onglets">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke-linecap="round"/></svg>
+          Menu
+        </button>
+        <ul class="onglets" id="onglets">
+          <li><a href="index.html">Accueil</a></li>
           <li><a href="publications.html">Publications</a></li>
           <li><a href="recherche.html">Textes</a></li>
           <li><a href="qui-sommes-nous.html">Qui sommes-nous</a></li>
-          <li class="abonnement-mobile"><a class="bouton" href="abonnement.html">S'abonner</a></li>
         </ul>
-      </nav>
-      <div class="actions-entete">
-        <a class="bouton-icone" href="recherche.html" aria-label="Rechercher dans les archives">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5" stroke-linecap="round"/></svg>
+        <a class="onglet-icone" href="recherche.html" aria-label="Rechercher dans les archives">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5" stroke-linecap="round"/></svg>
         </a>
-        <a class="bouton" href="abonnement.html" aria-current="page">S'abonner</a>
-        <button class="bouton-icone bouton-menu" type="button" aria-expanded="false" aria-controls="nav-principale">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke-linecap="round"/></svg>
-          <span class="visuellement-cache">Menu</span>
-        </button>
+        <a class="onglet-abonner" href="abonnement.html" aria-current="page">S'abonner</a>
       </div>
-    </div>
+    </nav>
   </header>
 
   <main id="contenu">
@@ -85,7 +88,6 @@
               <button class="bouton" type="submit">M'inscrire</button>
             </div>
           </form>
-          <p class="devise">« On ne peut aller de l'avant si l'on craint d'aller au socialisme. » Lénine</p>
         </div>
         <div>
           <h2>S'abonner au bulletin</h2>
@@ -110,7 +112,7 @@
   </footer>
   <script>
     const btn = document.querySelector('.bouton-menu');
-    const nav = document.getElementById('nav-principale');
+    const nav = document.getElementById('onglets');
     btn.addEventListener('click', () => {
       const ouvert = btn.getAttribute('aria-expanded') === 'true';
       btn.setAttribute('aria-expanded', String(!ouvert));
