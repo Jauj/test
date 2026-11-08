@@ -110,7 +110,7 @@ La page Bulletins actuelle a déjà des filtres (Thème, Organisation, Lieu, Nat
 | Onglet | Contient | Remplace |
 |---|---|---|
 | **Actualités** | Accueil : à la une, dernier numéro, prises de position | « Actualité » |
-| **Le journal** | Tous les numéros de CPS (couverture, sommaire, PDF), par année | « Bulletins » et « Publications » |
+| **Publications** | Tous les numéros de CPS (couverture, sommaire, PDF), par année | « Bulletins » et « Publications » |
 | **Textes** | Recherche dans les archives + textes fondamentaux + pages par thème | « Textes fondamentaux », « Publications », index |
 | **Qui sommes-nous** | Présentation, histoire, conférences, CJR, liens | « Qui sommes-nous ? » et « Liens » |
 | Bouton **S'abonner** | Abonnement, liste de diffusion, contact | « Abonnements et contacts » |

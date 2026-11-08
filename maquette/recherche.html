@@ -18,7 +18,7 @@
       <nav class="nav-principale" id="nav-principale" aria-label="Navigation principale">
         <ul>
           <li><a href="index.html">Actualités</a></li>
-          <li><a href="journal.html">Le journal</a></li>
+          <li><a href="publications.html">Publications</a></li>
           <li><a href="recherche.html" aria-current="page">Textes</a></li>
           <li><a href="qui-sommes-nous.html">Qui sommes-nous</a></li>
           <li class="abonnement-mobile"><a class="bouton" href="abonnement.html">S'abonner</a></li>
@@ -39,7 +39,6 @@
 
   <main id="contenu" class="section">
     <div class="conteneur">
-      <nav aria-label="Fil d'Ariane" class="meta"><a href="index.html">Accueil</a> › Textes et archives</nav>
       <h1 style="font-size:2rem;line-height:1.2;margin:.5rem 0 1.25rem">Textes et archives</h1>
 
       <form class="recherche-bloc" role="search" action="recherche.html">
@@ -51,45 +50,45 @@
 
       <div class="mise-en-page-recherche" style="margin-top:2rem">
         <!-- FILTRES : de vrais champs de formulaire, regroupés et légendés -->
-        <form class="filtres" aria-label="Affiner les résultats">
-          <h2 class="visuellement-cache">Filtres</h2>
-          <fieldset>
-            <legend>Type de texte</legend>
-            <label class="option"><input type="checkbox" name="type" value="supplement"> Supplément, tract <span class="nombre">13</span></label>
-            <label class="option"><input type="checkbox" name="type" value="editorial"> Éditorial <span class="nombre">10</span></label>
-            <label class="option"><input type="checkbox" name="type" value="declaration"> Déclaration <span class="nombre">4</span></label>
-            <label class="option"><input type="checkbox" name="type" value="militants"> Les militants interviennent <span class="nombre">3</span></label>
-          </fieldset>
-          <fieldset>
-            <legend>Secteur</legend>
-            <label class="option"><input type="checkbox" name="secteur"> Enseignement public <span class="nombre">4</span></label>
-            <label class="option"><input type="checkbox" name="secteur"> RATP <span class="nombre">3</span></label>
-            <label class="option"><input type="checkbox" name="secteur"> SNCF <span class="nombre">2</span></label>
-          </fieldset>
-          <fieldset>
-            <legend>Organisation citée</legend>
-            <label class="option"><input type="checkbox" name="org"> FSU <span class="nombre">3</span></label>
-            <label class="option"><input type="checkbox" name="org"> CGT <span class="nombre">3</span></label>
-            <label class="option"><input type="checkbox" name="org"> Force ouvrière <span class="nombre">2</span></label>
-          </fieldset>
-          <fieldset>
-            <legend>Période</legend>
-            <div class="periode">
-              <div><label for="de" class="meta" style="display:block">De</label><input class="champ" id="de" type="number" inputmode="numeric" min="1984" max="2026" value="1984"></div>
-              <div><label for="a" class="meta" style="display:block">À</label><input class="champ" id="a" type="number" inputmode="numeric" min="1984" max="2026" value="2026"></div>
-            </div>
-          </fieldset>
-          <fieldset>
-            <legend>Numéro du bulletin</legend>
-            <label for="num" class="visuellement-cache">Numéro du bulletin</label>
-            <select class="champ" id="num"><option>Tous les numéros</option><option>N° 98 (nouvelle série)</option><option>N° 87 (nouvelle série)</option><option>N° 86 (nouvelle série)</option></select>
-          </fieldset>
-          <button class="bouton" type="submit" style="width:100%">Appliquer les filtres</button>
-        </form>
+        <nav class="filtres" aria-label="Affiner les résultats">
+          <h3 class="filtre-titre" id="f-themes">Thèmes</h3>
+          <ul class="liens-filtres" aria-labelledby="f-themes">
+              <li><a href="recherche.html" aria-current="true">Retraites <span class="nombre">36</span><span class="retirer" aria-hidden="true">×</span><span class="visuellement-cache"> (filtre actif, cliquer pour le retirer)</span></a></li>
+              <li><a href="recherche.html">Budget <span class="nombre">35</span></a></li>
+              <li><a href="recherche.html">Enseignement public <span class="nombre">220</span></a></li>
+              <li><a href="recherche.html">Sécurité sociale <span class="nombre">24</span></a></li>
+              <li><a href="recherche.html">Fonction publique <span class="nombre">19</span></a></li>
+              <li><a href="recherche.html">Syndicats et dialogue social <span class="nombre">18</span></a></li>
+              <li><a href="recherche.html">Libertés démocratiques <span class="nombre">16</span></a></li>
+              <li><a href="recherche.html">Guerre impérialiste <span class="nombre">19</span></a></li>
+              <li><a href="recherche.html">Crise du capitalisme <span class="nombre">22</span></a></li>
+          </ul>
+          <p style="margin:.25rem 0 0"><a href="recherche.html">Tous les thèmes →</a></p>
+          <h3 class="filtre-titre" id="f-type">Type de texte</h3>
+          <ul class="liens-filtres" aria-labelledby="f-type">
+              <li><a href="recherche.html">Supplément, tract <span class="nombre">13</span></a></li>
+              <li><a href="recherche.html">Éditorial <span class="nombre">10</span></a></li>
+              <li><a href="recherche.html">Déclaration <span class="nombre">4</span></a></li>
+              <li><a href="recherche.html">Les militants interviennent <span class="nombre">3</span></a></li>
+          </ul>
+          <h3 class="filtre-titre" id="f-org">Organisation citée</h3>
+          <ul class="liens-filtres" aria-labelledby="f-org">
+              <li><a href="recherche.html">FSU <span class="nombre">3</span></a></li>
+              <li><a href="recherche.html">CGT <span class="nombre">3</span></a></li>
+              <li><a href="recherche.html">Force ouvrière <span class="nombre">2</span></a></li>
+          </ul>
+          <h3 class="filtre-titre" id="f-periode">Période</h3>
+          <ul class="liens-filtres" aria-labelledby="f-periode">
+              <li><a href="recherche.html">2020 – 2026 <span class="nombre">12</span></a></li>
+              <li><a href="recherche.html">2010 – 2019 <span class="nombre">5</span></a></li>
+              <li><a href="recherche.html">2000 – 2009 <span class="nombre">13</span></a></li>
+              <li><a href="recherche.html">1984 – 1999 <span class="nombre">6</span></a></li>
+          </ul>
+        </nav>
 
         <div>
           <ul class="filtres-actifs" aria-label="Filtres actifs">
-            <li><button type="button">Thème : Retraites <span aria-hidden="true">×</span><span class="visuellement-cache">(retirer ce filtre)</span></button></li>
+            <li><a href="recherche.html">Thème : Retraites <span aria-hidden="true">×</span><span class="visuellement-cache">(retirer ce filtre)</span></a></li>
           </ul>
           <div class="resultats-entete">
             <p role="status" style="margin:0"><strong>36 textes</strong> pour « retraites »</p>
@@ -151,7 +150,7 @@
     <div class="conteneur">
       <div class="pied-bas" style="border:0;margin:0;padding:0">
         <span>Combattre pour le socialisme</span>
-        <a href="abonnement.html#contact">Contact</a><a href="accessibilite.html">Accessibilité : partiellement conforme</a><a href="#">Mentions légales</a>
+        <a href="abonnement.html#contact">Contact</a>
       </div>
     </div>
   </footer>

@@ -364,3 +364,27 @@ mark { background: #FFE8A3; color: var(--encre); padding: 0 .1em; } /* 17:1 avec
 }
 sup { line-height: 0; }
 .annees a { padding: 0 .75rem; }
+
+/* Filtres sous forme de liens (un clic = un filtre, re-clic = retrait) */
+.filtre-titre { font-size: 1rem; margin: 1.5rem 0 .5rem; padding-top: 1rem; border-top: 1px solid var(--filet); }
+.filtres .filtre-titre:first-child { margin-top: 0; }
+.liens-filtres { list-style: none; padding: 0; margin: 0; }
+.liens-filtres a {
+  display: flex; align-items: center; gap: .5rem; min-height: 40px; padding: .35rem .6rem; margin: 0 -.6rem;
+  border-radius: var(--rayon); color: var(--encre); text-decoration: none;
+}
+.liens-filtres a:hover { background: var(--fond-doux); color: var(--rouge); text-decoration: underline; }
+.liens-filtres .nombre { margin-left: auto; color: var(--gris); font-size: .9375rem; font-variant-numeric: tabular-nums; }
+.liens-filtres a[aria-current="true"] { background: var(--rouge); color: var(--blanc); font-weight: 700; }
+.liens-filtres a[aria-current="true"] .nombre { color: var(--blanc); }
+.liens-filtres .retirer { font-weight: 700; }
+.filtres-actifs a {
+  display: inline-flex; align-items: center; gap: .4rem; min-height: 36px; padding: .25rem .75rem;
+  font: 600 .9375rem var(--sans); color: var(--blanc); background: var(--encre); border-radius: 999px; text-decoration: none;
+}
+.filtres-actifs a:hover { background: var(--rouge); color: var(--blanc); }
+@media (max-width: 960px) {
+  .liens-filtres { display: flex; flex-wrap: wrap; gap: .4rem; }
+  .liens-filtres a { margin: 0; border: 1px solid var(--filet); border-radius: 999px; min-height: 36px; padding: .25rem .75rem; }
+  .liens-filtres .nombre { margin-left: .25rem; }
+}
