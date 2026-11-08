@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Accessibilité — Combattre pour le socialisme</title>
+  <meta name="description" content="Déclaration d'accessibilité du site Combattre pour le socialisme.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="lien-evitement" href="#contenu">Aller au contenu</a>
+  <header class="entete">
+    <div class="conteneur">
+      <a class="marque" href="index.html">
+        <img src="img/logo.jpg" alt="" width="48" height="48">
+        <span class="marque-nom">Combattre pour <span>le socialisme</span></span>
+      </a>
+      <nav class="nav-principale" id="nav-principale" aria-label="Navigation principale">
+        <ul>
+          <li><a href="index.html">Actualités</a></li>
+          <li><a href="journal.html">Le journal</a></li>
+          <li><a href="recherche.html">Textes</a></li>
+          <li><a href="qui-sommes-nous.html">Qui sommes-nous</a></li>
+          <li class="abonnement-mobile"><a class="bouton" href="abonnement.html">S'abonner</a></li>
+        </ul>
+      </nav>
+      <div class="actions-entete">
+        <a class="bouton-icone" href="recherche.html" aria-label="Rechercher dans les archives">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5" stroke-linecap="round"/></svg>
+        </a>
+        <a class="bouton" href="abonnement.html">S'abonner</a>
+        <button class="bouton-icone bouton-menu" type="button" aria-expanded="false" aria-controls="nav-principale">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke-linecap="round"/></svg>
+          <span class="visuellement-cache">Menu</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="contenu">
+    <div class="section">
+      <div class="conteneur" style="max-width:46rem">
+        <h1 class="titre-page">Accessibilité</h1>
+        <p class="intro">Ce site vise le niveau AA des règles internationales d'accessibilité (WCAG 2.2), dont le RGAA est la version française.</p>
+        <h2>État de conformité</h2>
+        <p><strong>Partiellement conforme.</strong> Les pages du site respectent les contrastes de couleurs, se parcourent au clavier et s'adaptent aux petits écrans.</p>
+        <h2>Contenus non accessibles</h2>
+        <ul>
+          <li>Une partie des bulletins anciens (1984-2000) n'existe qu'en PDF scanné, sans texte lisible par un lecteur d'écran. Écrivez-nous pour en recevoir une version texte.</li>
+        </ul>
+        <h2>Signaler un problème</h2>
+        <p>Si vous ne parvenez pas à accéder à un contenu, écrivez à <a href="mailto:socialisme@free.fr">socialisme@free.fr</a> : nous vous le transmettrons sous une autre forme.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="pied">
+    <div class="conteneur">
+      <div class="pied-grille">
+        <div>
+          <h2>Recevoir nos publications</h2>
+          <form>
+            <label for="courriel" style="display:block;margin-bottom:.4rem">Adresse électronique</label>
+            <div class="recherche-bloc">
+              <input class="champ" id="courriel" type="email" autocomplete="email" placeholder="nom@exemple.fr">
+              <button class="bouton" type="submit">M'inscrire</button>
+            </div>
+          </form>
+          <p class="devise">« On ne peut aller de l'avant si l'on craint d'aller au socialisme. » Lénine</p>
+        </div>
+        <div>
+          <h2>S'abonner au bulletin</h2>
+          <ul>
+            <li>30 € pour dix numéros</li>
+            <li><a href="abonnement.html">Modalités d'abonnement</a></li>
+            <li><a href="abonnement.html#anciens">Commander d'anciens numéros</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2>Le site</h2>
+          <ul>
+            <li><a href="abonnement.html#contact">Contact</a></li>
+            <li><a href="qui-sommes-nous.html#liens">Liens</a></li>
+            <li><a href="accessibilite.html">Accessibilité : partiellement conforme</a></li>
+            <li><a href="#">Mentions légales</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="pied-bas">
+        <span>Combattre pour le socialisme — Groupe pour la construction du parti ouvrier révolutionnaire, de l'Internationale ouvrière révolutionnaire</span>
+      </div>
+    </div>
+  </footer>
+  <script>
+    const btn = document.querySelector('.bouton-menu');
+    const nav = document.getElementById('nav-principale');
+    btn.addEventListener('click', () => {
+      const ouvert = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', String(!ouvert));
+      nav.classList.toggle('ouvert', !ouvert);
+    });
+    document.querySelectorAll('form').forEach(f => f.addEventListener('submit', e => {
+      if (!f.getAttribute('action')) e.preventDefault();
+    }));
+  </script>
+</body>
+</html>

@@ -297,3 +297,70 @@ mark { background: #FFE8A3; color: var(--encre); padding: 0 .1em; } /* 17:1 avec
   body { border: 0; }
   a { color: inherit; }
 }
+
+/* ---------- Pages intérieures (ajout) ---------- */
+.titre-page { font-size: clamp(1.75rem, 1.3rem + 1.8vw, 2.5rem); line-height: 1.15; margin: .5rem 0 1rem; letter-spacing: -.01em; }
+.intro { font-family: var(--serif); font-size: 1.1875rem; max-width: var(--texte); margin: 0 0 2rem; }
+.titre-resultat { font-size: 1.1875rem; line-height: 1.3; margin: .35rem 0; }
+.titre-resultat a { color: var(--encre); text-decoration: none; }
+.titre-resultat a:hover { color: var(--rouge); text-decoration: underline; }
+
+/* Article */
+.article { max-width: 46rem; margin: 0 auto; }
+.article-entete { border-bottom: 1px solid var(--filet); padding-bottom: 1.5rem; margin-bottom: 2rem; }
+.article-entete .titre-page { font-size: clamp(1.9rem, 1.3rem + 2.4vw, 2.9rem); }
+.mots-ordre { list-style: none; padding: 0; margin: 1rem 0 1.5rem; }
+.mots-ordre li { font-weight: 800; font-size: 1.25rem; line-height: 1.3; padding-left: 1rem; border-left: 4px solid var(--rouge); margin: .5rem 0; }
+.article-corps { font-family: var(--serif); font-size: 1.1875rem; line-height: 1.7; }
+.article-corps h2 { font-family: var(--sans); font-size: 1.375rem; line-height: 1.3; margin: 2.5rem 0 .75rem; }
+.article-corps p { margin: 0 0 1.1rem; }
+.encadre { background: var(--fond-doux); border-left: 4px solid var(--rouge); padding: 1.25rem 1.5rem; margin: 1.5rem 0; font-family: var(--sans); font-size: 1.0625rem; }
+.encadre ul { margin: .5rem 0 0; padding-left: 1.2rem; }
+.encadre li { margin: .3rem 0; font-weight: 600; }
+.barre-article { display: flex; flex-wrap: wrap; gap: .75rem; align-items: center; }
+.article-pied { border-top: 1px solid var(--filet); margin-top: 2.5rem; padding-top: 1.5rem; }
+
+/* Journal */
+.numeros { display: grid; grid-template-columns: repeat(4, 1fr); gap: 2rem 1.5rem; list-style: none; padding: 0; margin: 0; }
+.numeros li { position: relative; }
+.numeros .couverture { padding: .9rem; margin-bottom: .75rem; }
+.numeros h3 { font-size: 1.0625rem; margin: 0 0 .25rem; line-height: 1.3; }
+.numeros h3 a { color: var(--encre); text-decoration: none; }
+.numeros h3 a::after { content: ""; position: absolute; inset: 0; }
+.numeros li:hover h3 a { color: var(--rouge); text-decoration: underline; }
+.numeros p { margin: 0; font-size: .9375rem; color: var(--gris); }
+.annees { display: flex; flex-wrap: wrap; gap: .5rem; list-style: none; padding: 0; margin: 0 0 2rem; }
+.annees a { display: inline-flex; min-height: 40px; min-width: 64px; align-items: center; justify-content: center; border: 1px solid var(--filet); border-radius: var(--rayon); text-decoration: none; color: var(--encre); font-variant-numeric: tabular-nums; }
+.annees a[aria-current="true"] { background: var(--rouge); border-color: var(--rouge); color: var(--blanc); font-weight: 700; }
+
+/* Qui sommes-nous */
+.colonnes { display: grid; grid-template-columns: 1fr 20rem; gap: 3rem; align-items: start; }
+.citation { font-family: var(--serif); font-size: 1.1875rem; font-style: italic; border-left: 4px solid var(--rouge); margin: 0 0 2rem; padding: .25rem 0 .25rem 1.25rem; }
+.citation footer { font-style: normal; font-family: var(--sans); font-size: .9375rem; color: var(--gris); margin-top: .5rem; }
+.frise { list-style: none; padding: 0; margin: 0; border-left: 2px solid var(--filet); }
+.frise li { position: relative; padding: 0 0 1.25rem 1.25rem; }
+.frise li::before { content: ""; position: absolute; left: -7px; top: .45rem; width: 12px; height: 12px; border-radius: 50%; background: var(--rouge); }
+.frise strong { display: block; font-variant-numeric: tabular-nums; }
+.liste-liens { list-style: none; padding: 0; margin: 0; }
+.liste-liens li { padding: .6rem 0; border-bottom: 1px solid var(--filet); }
+
+/* Abonnement */
+.offres { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+.offre { border: 1px solid var(--filet); border-radius: var(--rayon); padding: 1.5rem; display: flex; flex-direction: column; gap: .75rem; }
+.offre--mise-en-avant { border: 2px solid var(--rouge); }
+.offre h2 { font-size: 1.25rem; margin: 0; }
+.prix { font-size: 2rem; font-weight: 800; line-height: 1; }
+.prix span { font-size: 1rem; font-weight: 400; color: var(--gris); }
+.adresse { font-style: normal; background: var(--fond-doux); padding: 1rem 1.25rem; border-radius: var(--rayon); }
+
+@media (max-width: 960px) {
+  .numeros { grid-template-columns: repeat(3, 1fr); }
+  .colonnes, .offres { grid-template-columns: 1fr; }
+}
+@media (max-width: 760px) {
+  .numeros { grid-template-columns: repeat(2, 1fr); gap: 1.5rem 1rem; }
+  .article-corps { font-size: 1.0625rem; }
+  .mots-ordre li { font-size: 1.125rem; }
+}
+sup { line-height: 0; }
+.annees a { padding: 0 .75rem; }
