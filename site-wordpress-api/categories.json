@@ -1,0 +1,7043 @@
+[
+  {
+    "id": 67,
+    "count": 5,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=67",
+    "name": "Afghanistan",
+    "slug": "afghanistan",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/67",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=67"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "count": 15,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=66",
+    "name": "Afrique du Sud",
+    "slug": "afrique-du-sud",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/66",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=66"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=68",
+    "name": "Albanie",
+    "slug": "albanie",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/68",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=68"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "count": 45,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=69",
+    "name": "Algérie",
+    "slug": "algerie",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/69",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=69"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "count": 15,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=70",
+    "name": "Allemagne",
+    "slug": "allemagne",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/70",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=70"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=71",
+    "name": "Argentine",
+    "slug": "argentine",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/71",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=71"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "count": 2,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=72",
+    "name": "Arménie",
+    "slug": "armenie",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/72",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=72"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 489,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=489",
+    "name": "ATTAC",
+    "slug": "attac",
+    "taxonomy": "category",
+    "parent": 48,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/489",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=489"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 434,
+    "count": 0,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=434",
+    "name": "Azerbaïdjan",
+    "slug": "azerbaidjan",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/434",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=434"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=73",
+    "name": "Balkans",
+    "slug": "balkans",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/73",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=73"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=75",
+    "name": "Belgique",
+    "slug": "belgique",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/75",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=75"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=76",
+    "name": "Bolivie",
+    "slug": "bolivie",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/76",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=76"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "count": 23,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=77",
+    "name": "Brésil",
+    "slug": "bresil",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/77",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=77"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "count": 199,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=6",
+    "name": "Bulletins",
+    "slug": "bulletins",
+    "taxonomy": "category",
+    "parent": 5,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/6",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/5"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=78",
+    "name": "Catalogne",
+    "slug": "catalogne",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/78",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=78"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "count": 6,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=30",
+    "name": "CCI",
+    "slug": "cci",
+    "taxonomy": "category",
+    "parent": 49,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/30",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/49"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=30"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "count": 11,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=32",
+    "name": "Cercle de Jeunes Révolutionnaires (CJR)",
+    "slug": "cercle-de-jeunes-revolutionnaires-cjr",
+    "taxonomy": "category",
+    "parent": 48,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/32",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=32"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "count": 71,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=31",
+    "name": "CGT",
+    "slug": "cgt",
+    "taxonomy": "category",
+    "parent": 46,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/31",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/46"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=31"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "count": 5,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=79",
+    "name": "Chili",
+    "slug": "chili",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/79",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=79"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "count": 13,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=80",
+    "name": "Chine",
+    "slug": "chine",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/80",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=80"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 519,
+    "count": 0,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=519",
+    "name": "Classiques du marxisme",
+    "slug": "classiques-du-marxisme",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/519",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=519"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "count": 18,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=9",
+    "name": "Communiqués",
+    "slug": "communiques",
+    "taxonomy": "category",
+    "parent": 5,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/9",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/5"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=9"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "count": 2,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=81",
+    "name": "Corée du Sud",
+    "slug": "coree-du-sud",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/81",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=81"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "count": 5,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=82",
+    "name": "Côte d'Ivoire",
+    "slug": "cote-divoire",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/82",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=82"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "count": 22,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=57",
+    "name": "Crise du capitalisme",
+    "slug": "crise-du-capitalisme",
+    "taxonomy": "category",
+    "parent": 56,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/57",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/56"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=57"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "count": 2,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=83",
+    "name": "Danemark",
+    "slug": "danemark",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/83",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=83"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 123,
+    "count": 90,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=123",
+    "name": "Déclarations",
+    "slug": "declarations",
+    "taxonomy": "category",
+    "parent": 5,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/123",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/5"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=123"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "count": 25,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=65",
+    "name": "Défense du trotskysme",
+    "slug": "defense-du-trotskysme",
+    "taxonomy": "category",
+    "parent": 56,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/65",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/56"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=65"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "count": 18,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=58",
+    "name": "Dialogue social / crise du syndicalisme",
+    "slug": "dialogue-social-crise-du-syndicalisme",
+    "taxonomy": "category",
+    "parent": 56,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/58",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/56"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=58"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "count": 4,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=59",
+    "name": "Ecologie",
+    "slug": "ecologie",
+    "taxonomy": "category",
+    "parent": 56,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/59",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/56"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=59"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "count": 152,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=15",
+    "name": "Editorial",
+    "slug": "editorial",
+    "taxonomy": "category",
+    "parent": 14,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/15",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/14"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=15"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "count": 5,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=84",
+    "name": "Egypte",
+    "slug": "egypte",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/84",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=84"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "count": 55,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=21",
+    "name": "Elections",
+    "slug": "elections",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/21",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=21"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "count": 4,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=60",
+    "name": "Emancipation des femmes",
+    "slug": "emancipation-des-femmes",
+    "taxonomy": "category",
+    "parent": 56,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/60",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/56"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=60"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "count": 220,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=22",
+    "name": "Enseignement public",
+    "slug": "enseignement-public",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/22",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=22"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "count": 11,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=85",
+    "name": "Espagne",
+    "slug": "espagne",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/85",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=85"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "count": 16,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=23",
+    "name": "Etat policier",
+    "slug": "etat-policier",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/23",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=23"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "count": 19,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=113",
+    "name": "Etats-Unis",
+    "slug": "etats-unis",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/113",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=113"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 121,
+    "count": 69,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=121",
+    "name": "Etudiants",
+    "slug": "etudiants",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/121",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=121"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "count": 20,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=115",
+    "name": "Ex-Yougoslavie",
+    "slug": "ex-yougoslavie",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/115",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=115"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "count": 40,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=34",
+    "name": "FEN",
+    "slug": "fen",
+    "taxonomy": "category",
+    "parent": 46,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/34",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/46"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=34"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 237,
+    "count": 35,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=237",
+    "name": "Finances Publiques",
+    "slug": "finances-publiques",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/237",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=237"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "count": 19,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=24",
+    "name": "Fonction publique",
+    "slug": "fonction-publique",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/24",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=24"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "count": 54,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=36",
+    "name": "Force Ouvrière",
+    "slug": "force-ouvriere",
+    "taxonomy": "category",
+    "parent": 46,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/36",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/46"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=36"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "count": 296,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=20",
+    "name": "France",
+    "slug": "france",
+    "taxonomy": "category",
+    "parent": 11,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/11"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=20"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "count": 2,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=38",
+    "name": "France Insoumise",
+    "slug": "france-insoumise",
+    "taxonomy": "category",
+    "parent": 48,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/38",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=38"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=35",
+    "name": "Front National",
+    "slug": "front-national",
+    "taxonomy": "category",
+    "parent": 48,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/35",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=35"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "count": 110,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=37",
+    "name": "FSU",
+    "slug": "fsu",
+    "taxonomy": "category",
+    "parent": 46,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/37",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/46"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=37"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 433,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=433",
+    "name": "Gabon",
+    "slug": "gabon",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/433",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=433"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=87",
+    "name": "Géorgie",
+    "slug": "georgie",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/87",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=87"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "count": 8,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=88",
+    "name": "Grèce",
+    "slug": "grece",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/88",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=88"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=52",
+    "name": "Grève générale 1968",
+    "slug": "greve-generale-1968",
+    "taxonomy": "category",
+    "parent": 51,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/52",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/51"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=52"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "count": 22,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=33",
+    "name": "Groupe pour la construction du POR",
+    "slug": "groupe-pour-la-construction-du-por",
+    "taxonomy": "category",
+    "parent": 48,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/33",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=33"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=89",
+    "name": "Guadeloupe",
+    "slug": "guadeloupe",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/89",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=89"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "count": 19,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=61",
+    "name": "Guerre impérialiste",
+    "slug": "guerre-imperialiste",
+    "taxonomy": "category",
+    "parent": 56,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/61",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/56"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=61"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=90",
+    "name": "Haïti",
+    "slug": "haiti",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/90",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=90"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "count": 16,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=51",
+    "name": "Histoire",
+    "slug": "histoire",
+    "taxonomy": "category",
+    "parent": 50,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/51",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/50"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=51"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "count": 5,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=50",
+    "name": "Histoire &amp; théorie",
+    "slug": "histoire-theorie",
+    "taxonomy": "category",
+    "parent": 11,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/50",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/11"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=50"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "count": 11,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=16",
+    "name": "Hommage",
+    "slug": "hommage",
+    "taxonomy": "category",
+    "parent": 14,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/16",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/14"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=16"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "count": 0,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=13",
+    "name": "Index chronologique",
+    "slug": "index-chronologique",
+    "taxonomy": "category",
+    "parent": 5,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/13",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/5"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=13"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=12",
+    "name": "Index par pays",
+    "slug": "index-par-pays",
+    "taxonomy": "category",
+    "parent": 5,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/5"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=12"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "count": 0,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=11",
+    "name": "Index thématique",
+    "slug": "index_thematique",
+    "taxonomy": "category",
+    "parent": 5,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/11",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/5"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=11"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=91",
+    "name": "Indochine",
+    "slug": "indochine",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/91",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=91"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 302,
+    "count": 18,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=302",
+    "name": "Irak",
+    "slug": "irak",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/302",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=302"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "count": 11,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=92",
+    "name": "Iran",
+    "slug": "iran",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/92",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=92"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=93",
+    "name": "Irlande",
+    "slug": "irlande",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/93",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=93"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "count": 11,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=94",
+    "name": "Italie",
+    "slug": "italie",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/94",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=94"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "count": 9,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=62",
+    "name": "IVème Internationale",
+    "slug": "iveme-internationale",
+    "taxonomy": "category",
+    "parent": 56,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/62",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/56"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=62"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 301,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=301",
+    "name": "Japon",
+    "slug": "japon",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/301",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=301"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 524,
+    "count": 0,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=524",
+    "name": "Journal CPS",
+    "slug": "journal-cps",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/524",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=524"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=95",
+    "name": "Kosovo",
+    "slug": "kosovo",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/95",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=95"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "count": 4,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=63",
+    "name": "Laïcité",
+    "slug": "laicite",
+    "taxonomy": "category",
+    "parent": 56,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/63",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/56"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=63"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "count": 8,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=49",
+    "name": "Lambertistes",
+    "slug": "lambertistes",
+    "taxonomy": "category",
+    "parent": 48,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/49",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=49"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 308,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=308",
+    "name": "LCR",
+    "slug": "lcr",
+    "taxonomy": "category",
+    "parent": 48,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/308",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=308"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "count": 114,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=17",
+    "name": "Les militants interviennent et informent CPS",
+    "slug": "les-militants-interviennent-et-informent-cps",
+    "taxonomy": "category",
+    "parent": 14,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/17",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/14"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=17"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "count": 8,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=96",
+    "name": "Liban",
+    "slug": "liban",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/96",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=96"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "count": 2,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=97",
+    "name": "Libye",
+    "slug": "libye",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/97",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=97"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=39",
+    "name": "LO",
+    "slug": "lo",
+    "taxonomy": "category",
+    "parent": 48,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/39",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=39"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 307,
+    "count": 10,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=307",
+    "name": "Lycéens",
+    "slug": "lyceens",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/307",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=307"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=98",
+    "name": "Maghreb",
+    "slug": "maghreb",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/98",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=98"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=99",
+    "name": "Mali",
+    "slug": "mali",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/99",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=99"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "count": 8,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=64",
+    "name": "Marx",
+    "slug": "marx",
+    "taxonomy": "category",
+    "parent": 56,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/64",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/56"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=64"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=100",
+    "name": "Mayotte",
+    "slug": "mayotte",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/100",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=100"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 435,
+    "count": 16,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=435",
+    "name": "Métallurgie",
+    "slug": "metallurgie",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/435",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=435"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=101",
+    "name": "Mexique",
+    "slug": "mexique",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/101",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=101"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "count": 27,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=44",
+    "name": "MPPT/PT",
+    "slug": "mppt-pt",
+    "taxonomy": "category",
+    "parent": 49,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/44",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/49"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=44"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=102",
+    "name": "Nicaragua",
+    "slug": "nicaragua",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/102",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=102"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 511,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=511",
+    "name": "Niger",
+    "slug": "niger",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/511",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=511"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 310,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=310",
+    "name": "NPA",
+    "slug": "npa",
+    "taxonomy": "category",
+    "parent": 48,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/310",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=310"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "count": 52,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=10",
+    "name": "On nous communique",
+    "slug": "on-nous-communique",
+    "taxonomy": "category",
+    "parent": 5,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/10",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/5"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=10"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=29",
+    "name": "Organisations en France",
+    "slug": "organisations-en-france",
+    "taxonomy": "category",
+    "parent": 11,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/29",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/11"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=29"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "count": 2,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=48",
+    "name": "Organisations politiques",
+    "slug": "orgapol",
+    "taxonomy": "category",
+    "parent": 29,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/29"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=48"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "count": 37,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=103",
+    "name": "Palestine",
+    "slug": "palestine",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/103",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=103"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 436,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=436",
+    "name": "Pandémie",
+    "slug": "pandemie",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/436",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=436"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=74",
+    "name": "Pays Basque",
+    "slug": "pays-basque",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/74",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=74"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "count": 21,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=40",
+    "name": "PCF",
+    "slug": "pcf",
+    "taxonomy": "category",
+    "parent": 48,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/40",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=40"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "count": 17,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=41",
+    "name": "PCI",
+    "slug": "pci",
+    "taxonomy": "category",
+    "parent": 48,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/41",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=41"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 309,
+    "count": 32,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=309",
+    "name": "PCI",
+    "slug": "pci-lambertistes",
+    "taxonomy": "category",
+    "parent": 49,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/309",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/49"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=309"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=42",
+    "name": "POI-D",
+    "slug": "poi-d",
+    "taxonomy": "category",
+    "parent": 49,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/42",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/49"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=42"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=104",
+    "name": "Pologne",
+    "slug": "pologne",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/104",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=104"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 304,
+    "count": 0,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=304",
+    "name": "Portugal",
+    "slug": "portugal",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/304",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=304"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "count": 4,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=55",
+    "name": "Première guerre mondiale",
+    "slug": "premiere-guerre-mondiale",
+    "taxonomy": "category",
+    "parent": 51,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/55",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/51"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=55"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "count": 31,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=43",
+    "name": "PS",
+    "slug": "ps",
+    "taxonomy": "category",
+    "parent": 48,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/43",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/48"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=43"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 306,
+    "count": 10,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=306",
+    "name": "PTT - Poste, Telecoms",
+    "slug": "ptt",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/306",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=306"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "count": 240,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=5",
+    "name": "Publications",
+    "slug": "publications",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/5",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=5"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "count": 58,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=25",
+    "name": "RATP",
+    "slug": "ratp",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/25",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=25"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "count": 37,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=28",
+    "name": "Retraites",
+    "slug": "retraites",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/28",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=28"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "count": 6,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=53",
+    "name": "Révolution française",
+    "slug": "revolution-francaise",
+    "taxonomy": "category",
+    "parent": 51,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/53",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/51"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=53"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "count": 6,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=54",
+    "name": "Révolution russe",
+    "slug": "revolution-russe",
+    "taxonomy": "category",
+    "parent": 51,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/54",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/51"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=54"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "count": 3,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=105",
+    "name": "Roumanie",
+    "slug": "roumanie",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/105",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=105"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "count": 11,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=110",
+    "name": "Royaume-Uni",
+    "slug": "royaume-uni",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/110",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=110"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=14",
+    "name": "Rubriques",
+    "slug": "rubriques",
+    "taxonomy": "category",
+    "parent": 11,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/14",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/11"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=14"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "count": 33,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=106",
+    "name": "Russie/URSS",
+    "slug": "russie-urss",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/106",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=106"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 324,
+    "count": 2,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=324",
+    "name": "Rwanda",
+    "slug": "rwanda",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/324",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=324"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "count": 28,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=26",
+    "name": "Santé publique",
+    "slug": "sante-publique",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/26",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=26"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "count": 24,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=27",
+    "name": "Sécurité sociale",
+    "slug": "securite-sociale",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/27",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=27"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "count": 66,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=18",
+    "name": "Situation économique",
+    "slug": "situation-economique",
+    "taxonomy": "category",
+    "parent": 14,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/18",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/14"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=18"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "count": 53,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=19",
+    "name": "Situation internationale",
+    "slug": "situation-internationale",
+    "taxonomy": "category",
+    "parent": 14,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/19",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/14"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=19"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 305,
+    "count": 7,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=305",
+    "name": "SNCF",
+    "slug": "sncf",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/305",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=305"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "count": 7,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=45",
+    "name": "SNUipp",
+    "slug": "snuipp",
+    "taxonomy": "category",
+    "parent": 46,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/45",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/46"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=45"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "count": 0,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=107",
+    "name": "Somalie",
+    "slug": "somalie",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/107",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=107"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=108",
+    "name": "Sri Lanka",
+    "slug": "sri-lanka",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/108",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=108"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "count": 159,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=7",
+    "name": "Suppléments",
+    "slug": "supplements",
+    "taxonomy": "category",
+    "parent": 5,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/7",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/5"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=7"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "count": 15,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=46",
+    "name": "Syndicats",
+    "slug": "syndicats",
+    "taxonomy": "category",
+    "parent": 29,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/46",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/29"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=46"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 303,
+    "count": 5,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=303",
+    "name": "Syrie",
+    "slug": "syrie",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/303",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=303"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "count": 2,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=109",
+    "name": "Tchad",
+    "slug": "tchad",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/109",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=109"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "count": 2,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=4",
+    "name": "test",
+    "slug": "test",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/4",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=4"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 517,
+    "count": 0,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=517",
+    "name": "Textes des conférences du Cercle (1997-2007)",
+    "slug": "textes-des-conferences-du-cercle-1997-2007",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/517",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=517"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 516,
+    "count": 2,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=516",
+    "name": "Textes des conférences du Comité (1984-1997)",
+    "slug": "comite",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/516",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=516"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 518,
+    "count": 0,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=518",
+    "name": "Textes des conférences du Groupe (2007-)",
+    "slug": "textes-des-conferences-du-groupe-2007",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/518",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=518"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "count": 10,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=56",
+    "name": "Théorie",
+    "slug": "theorie",
+    "taxonomy": "category",
+    "parent": 50,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/56",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/50"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=56"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 520,
+    "count": 0,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=520",
+    "name": "Travailleurs immigrés",
+    "slug": "travailleurs-immigres",
+    "taxonomy": "category",
+    "parent": 20,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/520",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/20"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=520"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 300,
+    "count": 7,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=300",
+    "name": "Tunisie",
+    "slug": "tunisie",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/300",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=300"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "count": 4,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=111",
+    "name": "Ukraine",
+    "slug": "ukraine",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/111",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=111"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 10,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=1",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/1",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "count": 33,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=47",
+    "name": "UNEF",
+    "slug": "unef",
+    "taxonomy": "category",
+    "parent": 46,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/47",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/46"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=47"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "count": 21,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=86",
+    "name": "Union Européenne / Etats-Unis socialistes d'Europe",
+    "slug": "union-europeenne-etats-unis-socialistes-deurope",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/86",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=86"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "count": 1,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=112",
+    "name": "Uruguay",
+    "slug": "uruguay",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/112",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=112"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "count": 8,
+    "description": "",
+    "link": "https://combattrepourlesocialisme.com/?cat=114",
+    "name": "Vénézuela",
+    "slug": "venezuela",
+    "taxonomy": "category",
+    "parent": 12,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/114",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=/wp/v2/categories/12"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://combattrepourlesocialisme.com/index.php?rest_route=%2Fwp%2Fv2%2Fposts&categories=114"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

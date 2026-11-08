@@ -1,0 +1,31 @@
+{
+  "name": "COMBATTRE POUR LE SOCIALISME",
+  "description": "&quot;On ne peut aller de l&#039;avant si l&#039;on craint d&#039;aller au socialisme&quot; Lénine",
+  "url": "https://combattrepourlesocialisme.com",
+  "namespaces": [
+    "oembed/1.0",
+    "gutentor-self-api/v1",
+    "gutentor-advanced-import/v1",
+    "gutentor-dynamic-css/v1",
+    "instant-images",
+    "psacp-layout-selector/v1",
+    "kb-design-tokens/v1",
+    "kb-mailerlite/v1",
+    "kb-getresponse/v1",
+    "kb-fluentcrm/v1",
+    "kbp/v1",
+    "kb-lottieanimation/v1",
+    "kb-vector/v1",
+    "kb-design-library/v1",
+    "kb-image-picker/v1",
+    "ai1wm/v1",
+    "filebird/v1",
+    "filebird/public/v1",
+    "ionos-performance/v1",
+    "code-snippets/v1",
+    "wp/v2",
+    "wp-site-health/v1",
+    "wp-block-editor/v1",
+    "wp-abilities/v1"
+  ]
+}
